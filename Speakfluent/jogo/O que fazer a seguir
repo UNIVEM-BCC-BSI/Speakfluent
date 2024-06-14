@@ -1,0 +1,7 @@
+1. mover as variaveis de vida; objetivos e pontos para a config.py para ser acessada em todo o código = Feito
+
+2. criar mecanica para que o jogador responda ao professor apenas uma vez, ao responder ele diz se estava certo ou errado = Feito
+
+3. nesta mecanica, o impedimento ira resetar caso ele saia de perto e retorne ao professor = Feito
+
+4. Criar as mudanças de tela bem como as telas de game-over, menu e introdução da história = Feito
